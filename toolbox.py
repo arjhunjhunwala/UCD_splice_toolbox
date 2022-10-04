@@ -1,9 +1,14 @@
 """
 Splice fragility tool box
 
-Aditya Jhunjhunwala
-R0 - 04/18/2022
-R1 - 07/11/2022 - removed the 'no abaqus functionality from the toolbox'
+Aditya Jhunjhunwala, University of California Davis
+arjhunjhunwala@ucdavis.edu
+
+Amit Kanvinde, University of California Davis
+kanvinde@ucdavis.edu
+
+Revision history
+R0 - 10/03/2022 - first version of toolbox - does not support the no abaqus feature
 
 """
 # ----------------------------------------------------------------------------------------------------------------------
