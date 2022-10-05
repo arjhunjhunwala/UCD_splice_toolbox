@@ -3,6 +3,10 @@
 The splice toolbox is a custom application to develop fracture fragility of PJP welded column splices (W sections only). 
 The toolbox is wrtten in python and needs an ABAQUS license to run.
 
+Developed by:
+Aditya Jhunjhunwala, UC Davis, arjhunjhunwala@ucdavie.edu
+Amit Kanvinde, UC Davis, kanvinde@ucdavis.edu
+
 ## Installation
 
 1) Download all contents to a local folder. 
