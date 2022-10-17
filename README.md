@@ -1,6 +1,6 @@
 # UCD_splice_toolbox
 
-The splice toolbox is a custom application to develop fracture fragility of PJP welded column splices (W sections only). 
+The splice toolbox is a custom application to develop fracture fragility of PJP welded column splices (W sections only).  
 The toolbox is wrtten in python and needs an ABAQUS license to run.
 
 Developed by:
